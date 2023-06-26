@@ -1,6 +1,8 @@
-# Nyancat CLI
+# CatNyancat
 
-Nyancat rendered in your terminal.
+Un mirall del nyancat de [K Lange](https://github.com/klange) en català!
+
+Actualment estic treballant en traduïr la resta del repositori i els arguments que es poden passar al programa.
 
 [![Nyancats](http://nyancat.dakko.us/nyancat.png)](http://nyancat.dakko.us/nyancat.png)
 
